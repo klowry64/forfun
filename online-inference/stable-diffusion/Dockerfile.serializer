@@ -1,4 +1,4 @@
-FROM python:3.12.0a5-slim
+FROM python:3.12.0rc2-slim
 
 ENV tenzorizer_commit=35381e3812ba342991d30b71ce257503622ae828
 
